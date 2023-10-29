@@ -1,6 +1,7 @@
-# *ONLY FOR USE IN ANDROID STUDIO*
+# For use in the Android Studio.
 
 These are the original (taken from the Wayback Machine) which were removed from the Google API.
+I can't verify if these work.
 
 ## Usage
 In Android Studio, navigate to the SDK Manager, and click SDK Update Sites.
