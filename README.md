@@ -1,7 +1,7 @@
 # For use in the Android Studio.
 
 These are the original (taken from the Wayback Machine) which were removed from the Google API.
-odl of these work but i couldn't find them for my life
+idk of these work but i couldn't find them for my life
 
 ## Usage
 In Android Studio, navigate to the SDK Manager, and click SDK Update Sites.
